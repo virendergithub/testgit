@@ -1,0 +1,34 @@
+
+Incidents				Responce				Resolution			worklog update
+P1 						15						2Hrs				15 min
+P2 						15						6Hrs				30 min
+P3						30						48 hrs				24hrs
+P4						30						72 hrs				24 hrs
+
+Note: if response time is breached then don't accept incident.
+
+Incident Lifecycle
+Incident creation -> WIP -> Pending -> resolved
+
+Incident closed after 5 days once resolved.
+
+Incident Audit parameters:
+Summary: Summary need to change from technical to layman language.
+
+KB Artical: use dummy artical incase if you don't have proper 
+
+RCA: time ?
+
+
+Audit parameter:
+1. summaries
+2. work log timely update
+3. pending justiofication
+4. affected CI
+5. temporary 
+6. 
+
+
+RCA - internal 3days / client 5 days
+
+========================================================================================
